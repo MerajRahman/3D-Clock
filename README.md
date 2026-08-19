@@ -1,4 +1,4 @@
-# 🕐 3D-Clock — Laser-Cut Wood Themed Animated Clock
+# 🕐 3D-Clock — Animated Clock
 
 A real-time animated **3D analog clock** built with OpenGL/freeglut in C++, styled to look like a laser-cut wooden clock — pale birch wood for the face/body and dark burnt-wood accents (simulating laser-cut edges). The scene features an orbiting camera you can drag around with the mouse.
 
